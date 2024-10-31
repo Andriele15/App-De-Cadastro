@@ -43,7 +43,11 @@ Siga os passos abaixo para rodar o projeto localmente:
 │ ├── src
 │ │ ├── main
 │ │ │ ├── java/com/example/imccalculator
-│ │ │ │ ├── MainActivity.java # Atividade principal 
+│ │ │ │ ├── MainActivity.java # Atividade principal
+│ │ │ │ ├── Registro.java # Atividade para pegar as informções
+│ │ │ │ ├── TelaCadstroUsuario.java # Atividade para a tela de cadastro
+│ │ │ │ ├── TelaListagemUsuarios.java # Atividade para a tela de listagem
+│ │ │ │ ├── TelaPrincipal.java # Atividade para a Tela principal
 │ │ │ ├── res
 │ │ │ │ ├── layout
 │ │ │ │ │ ├── activity_main.xml # Layout da tela principal
